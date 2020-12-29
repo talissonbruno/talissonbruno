@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 # HI there, I,m [Talisson Bruno](https://github.com/talissonbruno)
 
-<a href=""><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="h"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/t%C3%A1lisson-souza-42407011a/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/Talisson_cranio"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+<a href="https://www.instagram.com/talisson.souza.94/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:talissonbrsouza@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
-  <li>🧑‍💻 I'm a Javascript Developer from <b>Montes Claros, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
+  <li>🧑‍💻 I'm a Javascript Developer from <b>Montes Claros - MG, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Brasil</b>;</li>
   <li>💾 Few tech that I enjoy working in are React Native, ReactJS, NodeJS, Typesript, Git and Notion;</li>
   <li>😍 Passionate about education and problem solution through programming;</li>
   <li>😊 Willing to contribute in opensource development projects;</li>
@@ -44,9 +44,6 @@ Here are some ideas to get you started:
 ---
 
 ## 😇 My Github Stats:
-
-[![Visits Badge](https://badges.pufler.dev/visits/talissonbruno/talissonbruno?style=for-the-badge)](https://github.com/talissonbruno/talissonbruno)
-![Repos Badge](https://badges.pufler.dev/repos/talissonbruno?style=for-the-badge)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=talissonbruno&show_icons=true&theme=algolia&line_height=27">
